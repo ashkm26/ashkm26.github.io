@@ -1,0 +1,11 @@
+/* This is a single line comment */
+h1 {color: blue; font-size: 30pt;} 
+
+p {color: pink; font-weight: bold;}
+
+body { 	background: black;
+color: pink;
+   	    	font-size: 14pt;
+       		font-family:'Yeon Sung', cursive;
+
+ 			    }
